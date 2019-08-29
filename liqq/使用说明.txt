@@ -1,0 +1,4 @@
+ty：	设置input类型  默认：text
+pla：	设置提示水印   默认： 请输入内容
+dis：   设置是否禁用   默认：false    Boolean类型
+te：    设置样式       默认：na  有nb,nc,nd,ne,nf
